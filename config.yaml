@@ -3,6 +3,6 @@ dns_servers:
   - "1.1.1.1:53"
 
 dns_configs:
-  - domain: "caio.teste.com.br."
-    interface: "192.168.120.105"
-    response_ip: "192.168.1.100"
+  - domain: "sistema-homolog-05.rbserv.com.br."
+    interface: "172.30.3.242"
+    response_ip: "10.15.2.158"

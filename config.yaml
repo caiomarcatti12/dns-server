@@ -1,0 +1,8 @@
+dns_servers:
+  - "8.8.8.8:53"
+  - "1.1.1.1:53"
+
+dns_configs:
+  - domain: "caio.teste.com.br."
+    interface: "192.168.120.105"
+    response_ip: "192.168.1.100"
